@@ -12,7 +12,7 @@
 npm install
 ```
 
-- Install Forever JS to run it after close shell
+- Install Forever JS to run it after shell has been closed
 
 ```bash
 npm install forever -g
@@ -29,6 +29,6 @@ forever start main.js
 ```
 <br>
 
-**To Install it In Heroku Use Express JS as Web Server.**
+**To Install it on Heroku Use Express JS as Web Server.**
 
 ## Join [T Projects](https://telegram.dog/tprojects "T Projects")

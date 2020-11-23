@@ -1,0 +1,17 @@
+{
+    "name": "kuttit-bot",
+    "version": "1.0.0",
+    "description": "Kutt It Link Shortener Telegram Bot",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "axios": "^0.21.0",
+        "telegraf": "^3.38.0"
+
+    },
+    "author": "Tuhin Kanti Pal",
+    "license": "Apache-2.0"
+}
